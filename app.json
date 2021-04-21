@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
-      "value": "LEGEND KA BAAP HELL",
+      "value": "🥀𓊈💥【💫𝗧 𝗢 𝗠💫】💥𓊉🥀",
       "required": false
     },
     "ALIVE_MSG": {
@@ -96,7 +96,7 @@
     },
     "SUDO_USERS": {
       "description": "For Carbon.py. Leave as its. ",
-      "value": "1704264777 1754449534",
+      "value": "1762044587",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
